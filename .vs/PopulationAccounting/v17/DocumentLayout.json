@@ -1,0 +1,1022 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\peredelki_projects\\PopulationAccounting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\configurations\\workplaceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\configurations\\workplaceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\configurations\\userroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\configurations\\userroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\configurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\configurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\configurations\\relationshipconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\configurations\\relationshipconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\configurations\\registrationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\configurations\\registrationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\configurations\\regionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\configurations\\regionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\configurations\\refreshtokenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\configurations\\refreshtokenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\configurations\\postconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\configurations\\postconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\configurations\\passportconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\configurations\\passportconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\configurations\\notificationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\configurations\\notificationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\configurations\\nationalityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\configurations\\nationalityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\configurations\\familyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\configurations\\familyconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\configurations\\educationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\configurations\\educationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\configurations\\documentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\configurations\\documentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\configurations\\citizenrequestconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\configurations\\citizenrequestconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\configurations\\citizeneducationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\configurations\\citizeneducationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\configurations\\citizenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\configurations\\citizenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\configurations\\citizenbenefitconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\configurations\\citizenbenefitconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\configurations\\benefitconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\configurations\\benefitconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\configurations\\auditlogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\configurations\\auditlogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\configurations\\addressconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\configurations\\addressconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\configurations\\appointmenttoworkplaceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\configurations\\appointmenttoworkplaceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\benefit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\benefit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\workplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\workplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\relationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\relationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\passport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\passport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\nationality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\nationality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\family.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\family.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\citizenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\citizenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\citizeneducation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\citizeneducation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\citizenbenefit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\citizenbenefit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\appointmenttoworkplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\appointmenttoworkplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\enums\\familystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\enums\\familystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\utils\\validationregex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\utils\\validationregex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\enums\\rolename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\enums\\rolename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\enums\\gendertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\enums\\gendertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\enums\\kinshiptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\enums\\kinshiptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\enums\\registrationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\enums\\registrationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\enums\\relationshiptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\enums\\relationshiptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\enums\\requeststatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\enums\\requeststatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\entities\\enums\\requesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\entities\\enums\\requesttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|x:\\peredelki_projects\\populationaccounting\\populationaccounting.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{045CE7A5-C94E-4C2A-B123-1109DEE984FF}|PopulationAccounting.API\\PopulationAccounting.API.csproj|solutionrelative:populationaccounting.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\.gitignore",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\.gitignore",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\.gitignore",
+              "RelativeToolTip": "PopulationAccounting.API\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-02T09:01:49.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RefreshTokenConfiguration.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\RefreshTokenConfiguration.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Configurations\\RefreshTokenConfiguration.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\RefreshTokenConfiguration.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Configurations\\RefreshTokenConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:57:55.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegionConfiguration.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\RegionConfiguration.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Configurations\\RegionConfiguration.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\RegionConfiguration.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Configurations\\RegionConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:58:05.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistrationConfiguration.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\RegistrationConfiguration.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Configurations\\RegistrationConfiguration.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\RegistrationConfiguration.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Configurations\\RegistrationConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:58:20.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RelationshipConfiguration.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\RelationshipConfiguration.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Configurations\\RelationshipConfiguration.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\RelationshipConfiguration.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Configurations\\RelationshipConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:58:52.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoleConfiguration.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\RoleConfiguration.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Configurations\\RoleConfiguration.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\RoleConfiguration.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Configurations\\RoleConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:59:04.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:59:11.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRoleConfiguration.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\UserRoleConfiguration.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Configurations\\UserRoleConfiguration.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\UserRoleConfiguration.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Configurations\\UserRoleConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:59:20.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkplaceConfiguration.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\WorkplaceConfiguration.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Configurations\\WorkplaceConfiguration.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\WorkplaceConfiguration.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Configurations\\WorkplaceConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:59:30.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PostConfiguration.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\PostConfiguration.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Configurations\\PostConfiguration.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\PostConfiguration.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Configurations\\PostConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:57:42.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PassportConfiguration.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\PassportConfiguration.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Configurations\\PassportConfiguration.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\PassportConfiguration.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Configurations\\PassportConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:57:32.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotificationConfiguration.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\NotificationConfiguration.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Configurations\\NotificationConfiguration.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\NotificationConfiguration.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Configurations\\NotificationConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:57:20.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NationalityConfiguration.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\NationalityConfiguration.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Configurations\\NationalityConfiguration.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\NationalityConfiguration.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Configurations\\NationalityConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:57:08.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FamilyConfiguration.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\FamilyConfiguration.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Configurations\\FamilyConfiguration.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\FamilyConfiguration.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Configurations\\FamilyConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:56:58.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EducationConfiguration.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\EducationConfiguration.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Configurations\\EducationConfiguration.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\EducationConfiguration.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Configurations\\EducationConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:56:46.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DocumentConfiguration.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\DocumentConfiguration.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Configurations\\DocumentConfiguration.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\DocumentConfiguration.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Configurations\\DocumentConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:56:36.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CitizenRequestConfiguration.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\CitizenRequestConfiguration.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Configurations\\CitizenRequestConfiguration.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\CitizenRequestConfiguration.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Configurations\\CitizenRequestConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:56:06.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CitizenEducationConfiguration.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\CitizenEducationConfiguration.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Configurations\\CitizenEducationConfiguration.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\CitizenEducationConfiguration.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Configurations\\CitizenEducationConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:55:53.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CitizenConfiguration.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\CitizenConfiguration.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Configurations\\CitizenConfiguration.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\CitizenConfiguration.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Configurations\\CitizenConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:55:32.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CitizenBenefitConfiguration.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\CitizenBenefitConfiguration.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Configurations\\CitizenBenefitConfiguration.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\CitizenBenefitConfiguration.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Configurations\\CitizenBenefitConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:55:43.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BenefitConfiguration.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\BenefitConfiguration.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Configurations\\BenefitConfiguration.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\BenefitConfiguration.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Configurations\\BenefitConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:55:23.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuditLogConfiguration.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\AuditLogConfiguration.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Configurations\\AuditLogConfiguration.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\AuditLogConfiguration.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Configurations\\AuditLogConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:55:09.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddressConfiguration.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\AddressConfiguration.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Configurations\\AddressConfiguration.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\AddressConfiguration.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Configurations\\AddressConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:53:28.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppointmentToWorkplaceConfiguration.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\AppointmentToWorkplaceConfiguration.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Configurations\\AppointmentToWorkplaceConfiguration.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Configurations\\AppointmentToWorkplaceConfiguration.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Configurations\\AppointmentToWorkplaceConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:53:47.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Passport.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Passport.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\Passport.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Passport.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\Passport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T13:00:15.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Post.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\Post.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Post.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:58:11.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\RefreshToken.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\RefreshToken.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\RefreshToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:18:33.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Region.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Region.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\Region.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Region.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\Region.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:57:58.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Registration.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\Registration.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Registration.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\Registration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T13:00:25.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Relationship.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Relationship.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\Relationship.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Relationship.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\Relationship.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T13:00:03.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Role.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\Role.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Role.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T13:00:44.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "User.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\User.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\User.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:58:55.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\AuditLog.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\AuditLog.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\AuditLog.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\AuditLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T13:01:02.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Benefit.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Benefit.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\Benefit.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Benefit.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\Benefit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:57:16.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\Notification.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Notification.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T13:00:35.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Nationality.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Nationality.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\Nationality.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Nationality.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\Nationality.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:58:21.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\UserRole.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\UserRole.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T13:00:53.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Workplace.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Workplace.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\Workplace.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Workplace.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\Workplace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:58:44.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Data\\AppDbContext.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:39:54.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Family.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Family.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\Family.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Family.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\Family.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:57:29.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Education.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Education.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\Education.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Education.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\Education.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:57:44.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Document.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Document.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\Document.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Document.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\Document.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:18:55.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CitizenRequest.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\CitizenRequest.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\CitizenRequest.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\CitizenRequest.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\CitizenRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:59:18.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CitizenEducation.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\CitizenEducation.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\CitizenEducation.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\CitizenEducation.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\CitizenEducation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:59:51.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CitizenBenefit.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\CitizenBenefit.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\CitizenBenefit.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\CitizenBenefit.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\CitizenBenefit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:59:38.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Citizen.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\Citizen.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Citizen.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\Citizen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:59:07.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AppointmentToWorkplace.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\AppointmentToWorkplace.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\AppointmentToWorkplace.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\AppointmentToWorkplace.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\AppointmentToWorkplace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:59:28.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Address.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Address.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\Address.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Address.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:58:32.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FamilyStatus.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Enums\\FamilyStatus.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\Enums\\FamilyStatus.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Enums\\FamilyStatus.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\Enums\\FamilyStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:47:53.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ValidationRegex.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Utils\\ValidationRegex.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Utils\\ValidationRegex.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Utils\\ValidationRegex.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Utils\\ValidationRegex.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:39:02.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RoleName.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Enums\\RoleName.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\Enums\\RoleName.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Enums\\RoleName.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\Enums\\RoleName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:49:01.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "RegistrationType.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Enums\\RegistrationType.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\Enums\\RegistrationType.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Enums\\RegistrationType.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\Enums\\RegistrationType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:48:40.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "RelationshipType.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Enums\\RelationshipType.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\Enums\\RelationshipType.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Enums\\RelationshipType.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\Enums\\RelationshipType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:48:24.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "KinshipType.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Enums\\KinshipType.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\Enums\\KinshipType.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Enums\\KinshipType.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\Enums\\KinshipType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:48:10.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GenderType.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Enums\\GenderType.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\Enums\\GenderType.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Enums\\GenderType.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\Enums\\GenderType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:47:37.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "RequestStatus.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Enums\\RequestStatus.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\Enums\\RequestStatus.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Enums\\RequestStatus.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\Enums\\RequestStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:47:13.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RequestType.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Enums\\RequestType.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Entities\\Enums\\RequestType.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Entities\\Enums\\RequestType.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Entities\\Enums\\RequestType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T12:46:35.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\appsettings.json",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\appsettings.json",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\appsettings.json",
+              "RelativeToolTip": "PopulationAccounting.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-19T11:00:16.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Program.cs",
+              "DocumentMoniker": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Program.cs",
+              "RelativeDocumentMoniker": "PopulationAccounting.API\\Program.cs",
+              "ToolTip": "X:\\peredelki_projects\\PopulationAccounting\\PopulationAccounting.API\\Program.cs",
+              "RelativeToolTip": "PopulationAccounting.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T08:51:45.892Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

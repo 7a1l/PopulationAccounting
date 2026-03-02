@@ -1,0 +1,6 @@
+@PopulationAccounting.API_HostAddress = http://localhost:5083
+
+GET {{PopulationAccounting.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
